@@ -1,4 +1,4 @@
-![Linux Image](https://commons.wikimedia.org/wiki/File:Linux_logo.jpg)
+![Linux Image](https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg)
 # Cloudops Members
 This is a repository containing all member info of Cloudops Feb 2022.
 
