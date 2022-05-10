@@ -13,3 +13,9 @@ This is a repository containing all member info of Cloudops Feb 2022.
 - Get Certified
 
 ## Comments
+```bash
+$ start.sh
+$ ls
+
+
+```
