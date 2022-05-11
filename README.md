@@ -17,5 +17,7 @@ This is a repository containing all member info of Cloudops Feb 2022.
 $ start.sh
 $ ls
 
+1. Bukhari Khan
+
 
 ```
